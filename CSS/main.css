@@ -1,0 +1,16 @@
+section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.carousel-control-prev-icon {
+    background-image: url(../images/left-arrow.png);
+}
+.carousel-control-next-icon {
+    background-image: url(../images/right-arrow.png);
+}
+.carousel-control-prev, .carousel-control-next {
+    width: 10px;
+}
+.carousel-control-prev {
+    carousel-caption-width: 10%;
+}
